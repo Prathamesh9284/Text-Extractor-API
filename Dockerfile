@@ -45,7 +45,7 @@ COPY config/ ./config/
 COPY services/ ./services/
 COPY routes/ ./routes/
 COPY models/ ./models/
-COPY repositories/ ./repos/
+COPY repositories/ ./repositories/
 
 # Expose the port FastAPI runs on
 EXPOSE 8000
