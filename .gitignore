@@ -2,3 +2,4 @@
 api.py
 __pycache__
 render.yaml
+.gitignore
